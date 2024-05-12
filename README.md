@@ -1,3 +1,0 @@
-# Javacsript-course
-
-#Demo Commit
